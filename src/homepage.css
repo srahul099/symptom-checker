@@ -1,0 +1,13 @@
+.tab-space {
+  margin-left: 2em;
+}
+
+.response {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: rgb(210, 210, 210);
+  padding: 0 30px 30px 30px;
+  border-radius: 10px;
+}
